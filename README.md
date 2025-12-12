@@ -1,4 +1,5 @@
 <h1 align="center">Balkis Haj Harrouchi</h1>
+
 <p align="center">
   AI Engineering student (5th year) · Intelligent & Multimodal Systems
 </p>
@@ -9,109 +10,96 @@
   <a href="https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
 ---
 
-## Profile
+## About
 
+<p align="center">
 I design and build practical AI systems combining machine learning, NLP, computer vision, and large language models.  
 My experience spans academic projects, hackathons, and industry-oriented internships, with a focus on real-world deployment.
+</p>
 
-This GitHub profile contains selected code samples and supporting material. Many projects are developed in academic, collaborative, or private environments.
+<p align="center">
+Most of my work is developed in academic, collaborative, or private environments.  
+This GitHub profile contains selected code samples and supporting material.
+</p>
 
 ---
 
 ## Focus Areas
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>Intelligent Systems</h4>
-      <ul>
-        <li>Applied Machine Learning</li>
-        <li>System design for real-world constraints</li>
-        <li>Model evaluation and experimentation</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>LLM & Multimodal</h4>
-      <ul>
-        <li>RAG architectures and retrieval pipelines</li>
-        <li>Multimodal interaction (text, vision, speech)</li>
-        <li>LLM-powered applications and agents</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+Applied Artificial Intelligence · LLM-based systems & RAG · Multimodal AI (text, vision, speech) · AI-powered web applications
+</p>
 
 ---
 
 ## Technologies & Tools
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="33%">
-      <h4>Languages</h4>
-      <ul>
-        <li>Python</li>
-        <li>Java</li>
-        <li>C++</li>
-        <li>JavaScript</li>
-        <li>SQL</li>
-      </ul>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>AI / ML</strong></td>
+    <td align="center"><strong>Frameworks & Tools</strong></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      Python<br/>
+      Java<br/>
+      C++<br/>
+      JavaScript<br/>
+      SQL
     </td>
-    <td valign="top" width="33%">
-      <h4>AI / ML</h4>
-      <ul>
-        <li>Deep Learning</li>
-        <li>NLP</li>
-        <li>Computer Vision</li>
-        <li>OCR</li>
-        <li>RAG</li>
-      </ul>
+    <td valign="top" align="center">
+      Deep Learning<br/>
+      NLP<br/>
+      Computer Vision<br/>
+      CNNs<br/>
+      OCR<br/>
+      Multimodal AI<br/>
+      LLMs<br/>
+      RAG
     </td>
-    <td valign="top" width="33%">
-      <h4>Frameworks</h4>
-      <ul>
-        <li>FastAPI</li>
-        <li>PyTorch</li>
-        <li>Hugging Face</li>
-        <li>LangChain / LangGraph</li>
-        <li>React</li>
-      </ul>
+    <td valign="top" align="center">
+      FastAPI<br/>
+      PyTorch<br/>
+      Hugging Face<br/>
+      LangChain / LangGraph<br/>
+      React<br/>
+      Docker<br/>
+      PostgreSQL<br/>
+      Milvus<br/>
+      ChromaDB<br/>
+      Power BI<br/>
+      Selenium
     </td>
   </tr>
 </table>
 
-<p>
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat" />
-  <img src="https://img.shields.io/badge/ChromaDB-4B5563?style=flat" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 ## Highlights
 
-<ul>
-  <li><strong>Hackathon winner</strong>: AI Odyssey (1st Place), VEO (1st Place)</li>
-  <li><strong>Talents Tunisia Hackathon</strong>: 3rd Prize (MedLink)</li>
-  <li><strong>Community roles</strong>: Teaching Assistant and Technical Evaluator (MASSAI, AI HackFlow, AI Odyssey)</li>
-</ul>
+<p align="center">
+Hackathon winner (AI Odyssey, VEO) · Talents Tunisia Hackathon – 3rd Prize ·  
+Teaching Assistant & Technical Evaluator (MASSAI, AI HackFlow, AI Odyssey)
+</p>
 
 ---
 
 ## Links
 
-- Portfolio: https://balkis.lovable.app  
-- LinkedIn: https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/
+<p align="center">
+  Portfolio: <a href="https://balkis.lovable.app">https://balkis.lovable.app</a><br/>
+  LinkedIn: <a href="https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/">linkedin.com/in/balkis-haj-harrouchi</a>
+</p>
