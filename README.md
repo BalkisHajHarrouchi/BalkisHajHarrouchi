@@ -1,3 +1,67 @@
+<h1 align="center">Balkis Haj Harrouchi</h1>
+
+<p align="center">
+  AI Engineer · Intelligent Systems · LLM and Multimodal Applications
+</p>
+
+<p align="center">
+  <a href="https://balkis.lovable.app">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/">LinkedIn</a>
+</p>
+
+---
+
+## About
+
+<p align="center">
+I build AI systems designed for real-world use, combining machine learning, large language models, and multimodal processing.
+</p>
+
+<p align="center">
+My work focuses on end-to-end solutions, from data extraction and structuring to LLM-powered pipelines, intelligent chatbots, and deployment-ready applications.
+</p>
+
+<p align="center">
+I enjoy turning complex AI capabilities into practical systems that can be integrated into real platforms.
+</p>
+
+---
+
+## What I Build
+
+<p align="center">
+LLM-powered systems and RAG pipelines  
+Intelligent chatbots and conversational assistants  
+Multimodal AI applications combining text, vision, and speech  
+Full-stack AI applications with backend and frontend integration  
+</p>
+
+---
+
+## Selected Work
+
+<p align="center">
+CV parsing and enrichment systems  
+Document understanding and structured extraction pipelines  
+AI-driven matching and recommendation systems  
+Trend analysis and content generation platforms  
+</p>
+
+---
+
+## Experience
+
+<p align="center">
+AI Intern · EY · 2026 – Present  
+<br/>
+AI Engineering Intern · Dione Protocols (TrendAI) · 2025  
+<br/>
+AI Intern · ESPRIT · Multimodal Assistant and RAG Systems · 2024–2025  
+</p>
+
+---
+
 ## Tech Stack
 
 <p align="center">
@@ -14,7 +78,7 @@ LLMs · RAG · NLP · Computer Vision · Embeddings · Semantic Search<br/>
 <br/><br/>
 
 <b>LLM & AI Systems</b><br/>
-OpenAI API · Gemini (Google GenAI) · LangChain · LangGraph · Prompt Engineering<br/>
+OpenAI API · Gemini · LangChain · LangGraph · Prompt Engineering<br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
@@ -58,7 +122,27 @@ Angular · React · TypeScript · API Integration · Interactive UI Systems<br/>
 <br/><br/>
 
 <b>Deployment & Infrastructure</b><br/>
-Docker · Containerization · Environment Management · CI-ready setups<br/>
+Docker · Containerization · Environment Management<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
+</p>
+
+---
+
+## Approach
+
+<p align="center">
+I focus on building structured and scalable AI systems, combining data processing, model orchestration, and application-level integration.
+</p>
+
+<p align="center">
+From backend APIs to user-facing applications, I aim to deliver solutions that are both technically solid and usable in real environments.
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+Open to collaborations, freelance opportunities, and applied AI projects.
 </p>
