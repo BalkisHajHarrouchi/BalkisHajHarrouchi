@@ -1,7 +1,7 @@
 <h1 align="center">Balkis Haj Harrouchi</h1>
 
 <p align="center">
-  AI Engineering student (5th year) · Intelligent & Multimodal Systems
+  AI Engineer · Intelligent & Multimodal Systems
 </p>
 
 <p align="center">
@@ -15,13 +15,16 @@
 ## About
 
 <p align="center">
-I design and build practical AI systems combining machine learning, NLP, computer vision, and large language models.  
-My experience spans academic projects, hackathons, and industry-oriented internships, with a focus on real-world deployment.
+I build AI systems designed for real-world applications, combining machine learning, NLP, computer vision, and large language models.
 </p>
 
 <p align="center">
-Most of my work is developed in academic, collaborative, or private environments.  
-This GitHub profile contains selected code samples and supporting material.
+My work focuses on designing end-to-end intelligent solutions — from data processing and model integration to deployment-ready pipelines.
+</p>
+
+<p align="center">
+Most projects are developed in academic, collaborative, or professional environments.  
+This GitHub showcases selected implementations and supporting components.
 </p>
 
 ---
@@ -29,7 +32,15 @@ This GitHub profile contains selected code samples and supporting material.
 ## Focus Areas
 
 <p align="center">
-Applied Artificial Intelligence · LLM-based systems & RAG · Multimodal AI (text, vision, speech) · AI-powered web applications
+LLM-based systems · Retrieval-Augmented Generation (RAG) · Multimodal AI (text, vision, speech) · AI-powered platforms
+</p>
+
+---
+
+## Selected Work
+
+<p align="center">
+AI-driven CV parsing and enrichment systems · Document understanding pipelines · Intelligent matching and recommendation systems · Multimodal AI applications
 </p>
 
 ---
@@ -67,4 +78,20 @@ Applied Artificial Intelligence · LLM-based systems & RAG · Multimodal AI (tex
   <img src="https://img.shields.io/badge/ChromaDB-4B5563?style=flat"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+</p>
+
+---
+
+## Approach
+
+<p align="center">
+I focus on building structured, scalable AI systems — combining data processing, model orchestration, and intelligent workflows to solve practical problems.
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+Open to opportunities, collaborations, and discussions in applied AI.
 </p>
