@@ -1,7 +1,7 @@
 <h1 align="center">Balkis Haj Harrouchi</h1>
 
 <p align="center">
-  AI Engineer · Intelligent & Multimodal Systems
+  AI Engineer · Intelligent Systems · LLM & Multimodal Applications
 </p>
 
 <p align="center">
@@ -15,24 +15,25 @@
 ## About
 
 <p align="center">
-I build AI systems designed for real-world applications, combining machine learning, NLP, computer vision, and large language models.
+I design and build AI systems for real-world applications, combining machine learning, large language models, and multimodal processing.
 </p>
 
 <p align="center">
-My work focuses on designing end-to-end intelligent solutions — from data processing and model integration to deployment-ready pipelines.
+My work focuses on end-to-end intelligent systems — from data extraction and structuring to LLM-powered pipelines and deployment-ready applications.
 </p>
 
 <p align="center">
-Most projects are developed in academic, collaborative, or professional environments.  
-This GitHub showcases selected implementations and supporting components.
+Experience across academic projects, hackathons, and industry environments, with a strong focus on practical impact and system design.
 </p>
 
 ---
 
-## Focus Areas
+## What I Build
 
 <p align="center">
-LLM-based systems · Retrieval-Augmented Generation (RAG) · Multimodal AI (text, vision, speech) · AI-powered platforms
+• LLM-powered systems (RAG, document understanding, automation)  
+• Multimodal AI applications (text, vision, speech)  
+• Intelligent platforms combining backend systems and AI pipelines  
 </p>
 
 ---
@@ -40,12 +41,24 @@ LLM-based systems · Retrieval-Augmented Generation (RAG) · Multimodal AI (text
 ## Selected Work
 
 <p align="center">
-AI-driven CV parsing and enrichment systems · Document understanding pipelines · Intelligent matching and recommendation systems · Multimodal AI applications
+CV parsing & enrichment systems · Document understanding pipelines · AI-driven matching systems · Trend analysis & content generation platforms
 </p>
 
 ---
 
-## Technologies & Tools
+## Experience
+
+<p align="center">
+AI Intern — EY (2026 – Present)  
+<br/>
+AI Engineering Intern — Dione Protocols (TrendAI) (2025)  
+<br/>
+AI Intern — ESPRIT (Multimodal Assistant · RAG Systems) (2024–2025)
+</p>
+
+---
+
+## Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -58,26 +71,29 @@ AI-driven CV parsing and enrichment systems · Document understanding pipelines 
 
 <p align="center">
   <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LLMs-4A4A4A?style=flat"/>
   <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat"/>
-  <img src="https://img.shields.io/badge/OCR-6B7280?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-6B7280?style=flat"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 </p>
 
 <p align="center">
-  <!-- Frameworks & Tools -->
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
   <img src="https://img.shields.io/badge/LangGraph-2F855A?style=flat"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+</p>
+
+<p align="center">
+  <!-- Data -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat"/>
   <img src="https://img.shields.io/badge/ChromaDB-4B5563?style=flat"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
 </p>
 
 ---
@@ -85,7 +101,11 @@ AI-driven CV parsing and enrichment systems · Document understanding pipelines 
 ## Approach
 
 <p align="center">
-I focus on building structured, scalable AI systems — combining data processing, model orchestration, and intelligent workflows to solve practical problems.
+I focus on building structured, scalable AI systems — combining data processing, model orchestration, and application-level integration.
+</p>
+
+<p align="center">
+My goal is to turn complex AI capabilities into usable, reliable systems.
 </p>
 
 ---
@@ -93,5 +113,5 @@ I focus on building structured, scalable AI systems — combining data processin
 ## Contact
 
 <p align="center">
-Open to opportunities, collaborations, and discussions in applied AI.
+Open to collaborations, freelance opportunities, and applied AI projects.
 </p>
