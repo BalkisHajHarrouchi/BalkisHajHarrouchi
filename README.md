@@ -1,7 +1,7 @@
 <h1 align="center">Balkis Haj Harrouchi</h1>
 
 <p align="center">
-  AI Engineer · Intelligent Systems · LLM & Multimodal Applications
+  AI Engineer · Intelligent Systems · LLM and Multimodal Applications
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 ## About
 
 <p align="center">
-I design and build AI systems for real-world applications, combining machine learning, large language models, and multimodal processing.
+I build AI systems designed for real-world use, combining machine learning, large language models, and multimodal processing.
 </p>
 
 <p align="center">
-My work focuses on end-to-end intelligent systems — from data extraction and structuring to LLM-powered pipelines and deployment-ready applications.
+My work focuses on end-to-end solutions, from data extraction and structuring to LLM-powered pipelines, chatbots, and deployment-ready applications.
 </p>
 
 <p align="center">
-Experience across academic projects, hackathons, and industry environments, with a strong focus on practical impact and system design.
+I enjoy turning complex AI capabilities into practical systems that can be integrated into real platforms.
 </p>
 
 ---
@@ -31,9 +31,10 @@ Experience across academic projects, hackathons, and industry environments, with
 ## What I Build
 
 <p align="center">
-• LLM-powered systems (RAG, document understanding, automation)  
-• Multimodal AI applications (text, vision, speech)  
-• Intelligent platforms combining backend systems and AI pipelines  
+LLM-powered systems and RAG pipelines  
+Intelligent chatbots and conversational assistants  
+Multimodal AI applications combining text, vision, and speech  
+Full-stack AI applications with backend and frontend integration  
 </p>
 
 ---
@@ -41,7 +42,10 @@ Experience across academic projects, hackathons, and industry environments, with
 ## Selected Work
 
 <p align="center">
-CV parsing & enrichment systems · Document understanding pipelines · AI-driven matching systems · Trend analysis & content generation platforms
+CV parsing and enrichment systems  
+Document understanding and structured extraction pipelines  
+AI-driven matching and recommendation systems  
+Trend analysis and content generation platforms  
 </p>
 
 ---
@@ -49,11 +53,11 @@ CV parsing & enrichment systems · Document understanding pipelines · AI-driven
 ## Experience
 
 <p align="center">
-AI Intern — EY (2026 – Present)  
+AI Intern · EY · 2026 – Present  
 <br/>
-AI Engineering Intern — Dione Protocols (TrendAI) (2025)  
+AI Engineering Intern · Dione Protocols (TrendAI) · 2025  
 <br/>
-AI Intern — ESPRIT (Multimodal Assistant · RAG Systems) (2024–2025)
+AI Intern · ESPRIT · Multimodal Assistant and RAG Systems · 2024–2025  
 </p>
 
 ---
@@ -61,7 +65,6 @@ AI Intern — ESPRIT (Multimodal Assistant · RAG Systems) (2024–2025)
 ## Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
@@ -70,7 +73,6 @@ AI Intern — ESPRIT (Multimodal Assistant · RAG Systems) (2024–2025)
 </p>
 
 <p align="center">
-  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/LLMs-4A4A4A?style=flat"/>
   <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat"/>
   <img src="https://img.shields.io/badge/NLP-6B7280?style=flat"/>
@@ -80,7 +82,6 @@ AI Intern — ESPRIT (Multimodal Assistant · RAG Systems) (2024–2025)
 </p>
 
 <p align="center">
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
   <img src="https://img.shields.io/badge/LangGraph-2F855A?style=flat"/>
@@ -89,7 +90,6 @@ AI Intern — ESPRIT (Multimodal Assistant · RAG Systems) (2024–2025)
 </p>
 
 <p align="center">
-  <!-- Data -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat"/>
   <img src="https://img.shields.io/badge/ChromaDB-4B5563?style=flat"/>
@@ -101,11 +101,11 @@ AI Intern — ESPRIT (Multimodal Assistant · RAG Systems) (2024–2025)
 ## Approach
 
 <p align="center">
-I focus on building structured, scalable AI systems — combining data processing, model orchestration, and application-level integration.
+I focus on building structured and scalable AI systems, combining data processing, model orchestration, and application-level integration.
 </p>
 
 <p align="center">
-My goal is to turn complex AI capabilities into usable, reliable systems.
+From backend APIs to user-facing applications, I aim to deliver systems that are both technically solid and usable in real environments.
 </p>
 
 ---
