@@ -3,32 +3,38 @@
 
 AI Engineer building practical systems across **Machine Learning, Deep Learning, Generative AI, agentic workflows, and full-stack AI applications**.
 
-I recently completed my final-year engineering project at **EY Tunisia**, where I designed and developed an **Intelligent Opportunity Management Platform** combining AI, document processing, semantic search, recommendation workflows, and business automation.
+I recently completed my final-year engineering project at **EY Tunisia**, where I designed and developed an **Intelligent Opportunity Management Platform** combining AI, intelligent document processing, semantic search, agentic workflows, recommendation systems, and business automation.
 
-[Portfolio](https://balkis-portfolio-nine.vercel.app) · [LinkedIn](https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/) · [Email](mailto:balkis.hajharrouchi@esprit.tn)
+🌐 [Portfolio](https://balkis-portfolio-nine.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/)  
+📧 [balkis.hajharrouchi@esprit.tn](mailto:balkis.hajharrouchi@esprit.tn)
 
-## About
+---
+
+## ✦ About Me
 
 I enjoy turning complex business problems and unstructured data into useful, reliable, and user-friendly AI solutions.
 
-My work includes:
+My work covers:
 
-- Machine Learning and Deep Learning
-- NLP and Computer Vision
-- LLM-powered and RAG applications
-- Agentic and multi-agent systems
-- Semantic, vector, and hybrid search
-- Intelligent document processing
-- Backend APIs and full-stack AI platforms
-- SQL and vector database systems
+🧠 Machine Learning and Deep Learning  
+💬 LLM-powered and RAG applications  
+🤖 Agentic and multi-agent systems  
+🔎 Semantic, vector, and hybrid search  
+📄 Intelligent document processing  
+🗄️ SQL and vector database systems  
+⚙️ Backend APIs and asynchronous workflows  
+🖥️ Full-stack AI applications  
 
-## Featured Project
+---
+
+## ✦ Featured Project
 
 ### Intelligent Opportunity Management Platform — EY Tunisia
 
-Final-year engineering project designed to support the analysis, qualification, and management of business opportunities.
+An AI-powered platform designed to support the analysis, qualification, and management of business opportunities.
 
-Main capabilities:
+The platform includes:
 
 - Opportunity document extraction and analysis
 - Consultant CV parsing and structuring
@@ -37,65 +43,92 @@ Main capabilities:
 - Mission reference management
 - Semantic and hybrid search
 - AI-assisted recommendations
-- Agentic workflows
-- Business dashboards
-- Role-based access control
+- Agentic CV adaptation workflows
+- Business dashboards and indicators
+- Role-based access control and auditability
 
-Technical highlights:
+### Technical Highlights
 
-- Built document-processing pipelines for PDF, DOCX, and PPTX files
+- Built processing pipelines for PDF, DOCX, and PPTX files
 - Structured multilingual consultant profiles, experiences, missions, and skills
 - Implemented hybrid retrieval using PostgreSQL, pgvector, embeddings, and full-text search
 - Designed agentic workflows with specialized AI agents
 - Integrated LLMs for extraction, analysis, generation, and recommendation
 - Added deterministic validation to reduce unsupported AI outputs
-- Built secure REST APIs with authentication and role-based permissions
-- Used Redis and ARQ for asynchronous processing
-- Containerized the platform with Docker
+- Built secure REST APIs with authentication and granular permissions
+- Used Redis and ARQ for asynchronous background processing
+- Designed relational and vector-based data architectures
+- Containerized the platform using Docker
 
 > Some implementation details and source code remain private because the platform was developed in a professional context.
 
-## Experience
+---
+
+## ✦ Experience
 
 ### AI Engineering Intern — EY Tunisia
 
 - Designed and developed an intelligent opportunity management platform
 - Built AI-assisted document and CV-processing workflows
+- Designed agentic workflows for intelligent CV adaptation
 - Implemented semantic and hybrid search
 - Developed matching and recommendation capabilities
-- Designed agentic CV adaptation workflows
-- Built backend services and asynchronous pipelines
+- Built backend services and asynchronous processing pipelines
 - Integrated AI services with an Angular application
 - Designed functional, data, logical, and physical architectures
-- Applied authentication and role-based access control
+- Implemented authentication and role-based access control
 - Worked using an iterative Scrumban approach
 
-## Tech Stack
+---
 
-**Machine Learning & Deep Learning**  
-Python · Scikit-learn · TensorFlow · Keras · PyTorch · Model Training · Model Evaluation · Feature Engineering
+## ✦ Tech Stack
 
-**Generative & Agentic AI**  
-LLMs · RAG · AI Agents · Multi-Agent Systems · LangChain · LangGraph · OpenAI API · Gemini · Prompt Engineering
+### 🧠 Machine Learning & Deep Learning
 
-**Search & Retrieval**  
-Embeddings · Vector Search · Semantic Search · Hybrid Search · Full-Text Search · Similarity Matching
+`Python` · `Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch` · `Model Training` · `Model Evaluation` · `Feature Engineering`
 
-**Backend & Databases**  
-FastAPI · REST APIs · PostgreSQL · SQL · SQLAlchemy · Alembic · JSONB · Redis · ARQ
+### 🤖 Generative & Agentic AI
 
-**Vector Databases**  
-pgvector · ChromaDB · Milvus
+`LLMs` · `RAG` · `AI Agents` · `Agentic Workflows` · `Multi-Agent Systems` · `LangChain` · `LangGraph` · `OpenAI API` · `Gemini` · `Prompt Engineering`
 
-**Document Processing**  
-PDF · DOCX · PPTX · OCR · Text Extraction · Document Structuring
+### 🔎 Search & Retrieval
 
-**Frontend & Deployment**  
-Angular · React · TypeScript · Docker · Docker Compose
+`Embeddings` · `Vector Search` · `Semantic Search` · `Hybrid Search` · `Full-Text Search` · `Similarity Matching`
 
-## Contact
+### ⚙️ Backend & APIs
 
-[Portfolio](https://balkis-portfolio-nine.vercel.app)  
-[LinkedIn](https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/)  
-[balkis.hajharrouchi@esprit.tn](mailto:balkis.hajharrouchi@esprit.tn)
+`FastAPI` · `REST APIs` · `Async Processing` · `File Processing Pipelines` · `Redis` · `ARQ`
+
+### 🗄️ Databases & Storage
+
+`SQL` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `JSONB` · `pgvector` · `ChromaDB` · `Milvus`
+
+### 📄 Document Processing
+
+`PDF` · `DOCX` · `PPTX` · `OCR` · `Text Extraction` · `Document Parsing` · `Document Structuring`
+
+### 🖥️ Frontend & Deployment
+
+`Angular` · `React` · `TypeScript` · `Docker` · `Docker Compose` · `API Integration`
+
+---
+
+## ✦ What I Build
+
+✨ Machine Learning and Deep Learning models  
+✨ NLP and Computer Vision solutions  
+✨ LLM-powered and RAG applications  
+✨ Agentic and multi-agent AI systems  
+✨ Semantic and hybrid search pipelines  
+✨ Intelligent document-processing systems  
+✨ Recommendation and matching engines  
+✨ Full-stack AI platforms  
+
+---
+
+## ✦ Contact
+
+🌐 [Portfolio](https://balkis-portfolio-nine.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/)  
+📧 [balkis.hajharrouchi@esprit.tn](mailto:balkis.hajharrouchi@esprit.tn)
 ```
