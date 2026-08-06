@@ -1,148 +1,237 @@
-<h1 align="center">Balkis Haj Harrouchi</h1>
+```markdown
+# Hi, I'm Balkis 👋
 
-<p align="center">
-  AI Engineer · Intelligent Systems · LLM and Multimodal Applications
-</p>
+AI Engineer focused on building intelligent systems, from **machine learning and deep learning models** to **LLM-powered, agentic, and full-stack AI applications**.
 
-<p align="center">
-  <a href="https://balkis.lovable.app">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/">LinkedIn</a>
-</p>
+I recently completed my final-year engineering project at **EY Tunisia**, where I designed and developed an **Intelligent Opportunity Management Platform** combining AI, intelligent document processing, semantic search, agentic workflows, and business process automation.
+
+🌐 **[View My Portfolio](https://balkis-portfolio-nine.vercel.app)**
 
 ---
 
-## About
+## About Me
 
-<p align="center">
-I build AI systems designed for real-world use, combining machine learning, large language models, and multimodal processing.
-</p>
+I enjoy transforming complex business problems and unstructured data into practical, reliable, and user-friendly AI solutions.
 
-<p align="center">
-My work focuses on end-to-end solutions, from data extraction and structuring to LLM-powered pipelines, intelligent chatbots, and deployment-ready applications.
-</p>
+My experience covers:
 
-<p align="center">
-I enjoy turning complex AI capabilities into practical systems that can be integrated into real platforms.
-</p>
+- Machine Learning and Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Generative AI and LLM applications
+- Agentic and multi-agent systems
+- Retrieval-Augmented Generation
+- Semantic and hybrid search
+- Intelligent document processing
+- Backend and full-stack development
+- Relational and vector database systems
+
+I am particularly interested in building complete AI systems that go beyond prototypes by combining models, retrieval pipelines, databases, APIs, background workflows, and interactive user interfaces.
 
 ---
 
 ## What I Build
 
-<p align="center">
-LLM-powered systems and RAG pipelines  
-Intelligent chatbots and conversational assistants  
-Multimodal AI applications combining text, vision, and speech  
-Full-stack AI applications with backend and frontend integration  
-</p>
+- Machine Learning and Deep Learning models
+- NLP and Computer Vision solutions
+- LLM-powered and RAG applications
+- Agentic and multi-agent AI workflows
+- Semantic, vector, and hybrid search systems
+- Intelligent document-processing pipelines
+- Recommendation and matching systems
+- SQL-backed data platforms and APIs
+- Full-stack AI applications
+
+---
+
+## Featured Project
+
+### Intelligent Opportunity Management Platform — EY Tunisia
+
+**Final-Year Engineering Project**
+
+Designed and developed an AI-powered platform to support the management, analysis, and qualification of business opportunities.
+
+The platform connects several intelligent modules:
+
+- Opportunity document extraction and analysis
+- Consultant CV parsing and structuring
+- CV enrichment and multilingual processing
+- CV adaptation based on opportunity requirements
+- Consultant-to-opportunity matching
+- Mission reference management
+- Semantic and hybrid search
+- AI-assisted recommendations
+- Agentic CV adaptation workflows
+- Business dashboards and indicators
+- Role-based access control and auditability
+
+### Technical Highlights
+
+- Built document-processing pipelines for PDF, DOCX, and PPTX files
+- Structured multilingual consultant profiles, experiences, missions, and skills
+- Implemented semantic and hybrid retrieval using PostgreSQL, pgvector, embeddings, and full-text search
+- Designed agentic AI workflows using orchestration and specialized agents
+- Integrated LLM providers for extraction, analysis, generation, and recommendation tasks
+- Added deterministic validation to reduce unsupported AI-generated information
+- Developed secure REST APIs with authentication and granular role-based permissions
+- Implemented asynchronous background processing using Redis and ARQ
+- Designed relational and vector-based data architectures
+- Containerized the application and its supporting services using Docker
+
+> Some implementation details and source code remain private because the platform was developed in a professional context.
 
 ---
 
 ## Selected Work
 
-<p align="center">
-CV parsing and enrichment systems  
-Document understanding and structured extraction pipelines  
-AI-driven matching and recommendation systems  
-Trend analysis and content generation platforms  
-</p>
+### Machine Learning & Deep Learning
+
+Model development, training, optimization, and evaluation for classification, regression, clustering, NLP, and Computer Vision tasks.
+
+This includes:
+
+- Data preprocessing
+- Feature engineering
+- Model selection
+- Hyperparameter tuning
+- Performance evaluation
+- Error analysis
+
+### Generative & Agentic AI
+
+Design and development of intelligent systems involving:
+
+- LLM-powered applications
+- Retrieval-Augmented Generation
+- Prompt engineering
+- AI agents
+- Multi-agent workflows
+- Workflow orchestration
+- Structured generation
+- AI output validation
+
+### Search & Retrieval
+
+Development of retrieval systems using:
+
+- Text embeddings
+- Vector search
+- Semantic search
+- Keyword search
+- Full-text search
+- Hybrid retrieval
+- Similarity-based matching
+
+### Intelligent Document Processing
+
+Extraction, analysis, and structuring of information from unstructured documents using traditional processing techniques and AI-assisted pipelines.
+
+Supported document types include:
+
+- PDF
+- DOCX
+- PPTX
+- Scanned documents through OCR workflows
+
+### Full-Stack AI Systems
+
+Development of end-to-end applications combining:
+
+- AI and Machine Learning components
+- Backend services and REST APIs
+- Relational and vector databases
+- Asynchronous background processing
+- Authentication and authorization
+- Modern web interfaces
+- Containerized deployment environments
 
 ---
 
 ## Experience
 
-<p align="center">
-AI Intern · EY · 2026 – Present  
-<br/>
-AI Engineering Intern · Dione Protocols (TrendAI) · 2025  
-<br/>
-AI Intern · ESPRIT · Multimodal Assistant and RAG Systems · 2024–2025  
-</p>
+### AI Engineering Intern — EY Tunisia
+
+**Final-Year Engineering Internship**
+
+- Designed and developed an Intelligent Opportunity Management Platform
+- Built AI-assisted document analysis and CV-processing workflows
+- Designed agentic workflows for intelligent CV adaptation
+- Implemented semantic and hybrid search for professional profiles and mission references
+- Developed matching and recommendation capabilities
+- Built backend services and asynchronous processing pipelines
+- Integrated AI services with a full-stack web application
+- Designed functional, data, logical, and physical system architectures
+- Implemented authentication and role-based access control
+- Worked with an iterative Scrumban development approach
 
 ---
 
 ## Tech Stack
 
-<p align="center">
+### Machine Learning & Deep Learning
 
-<b>AI & Machine Learning</b><br/>
-LLMs · RAG · NLP · Computer Vision · Embeddings · Semantic Search<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat"/>
-<img src="https://img.shields.io/badge/SentenceTransformers-4A4A4A?style=flat"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=flat"/>
-<img src="https://img.shields.io/badge/OCR-6B7280?style=flat"/>
+`Python` · `Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch` · `Model Training` · `Model Evaluation` · `Feature Engineering`
 
-<br/><br/>
+### AI & Data Science
 
-<b>LLM & AI Systems</b><br/>
-OpenAI API · Gemini · LangChain · LangGraph · Prompt Engineering<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
-<img src="https://img.shields.io/badge/LangGraph-2F855A?style=flat"/>
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Data Preprocessing` · `Classification` · `Regression` · `Clustering`
 
-<br/><br/>
+### Agentic AI & LLM Systems
 
-<b>Backend & APIs</b><br/>
-FastAPI · REST APIs · Async Processing · File Processing Pipelines<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Uvicorn-111827?style=flat"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat"/>
+`LLMs` · `RAG` · `AI Agents` · `Agentic Workflows` · `Multi-Agent Systems` · `AI Orchestration` · `LangChain` · `LangGraph` · `OpenAI API` · `Gemini` · `Prompt Engineering`
 
-<br/><br/>
+### Search & Retrieval
 
-<b>Databases & Storage</b><br/>
-PostgreSQL · SQLAlchemy · Alembic · JSONB · pgvector · ChromaDB · Milvus<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat"/>
-<img src="https://img.shields.io/badge/pgvector-000000?style=flat"/>
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat"/>
-<img src="https://img.shields.io/badge/ChromaDB-4B5563?style=flat"/>
+`Embeddings` · `Vector Search` · `Semantic Search` · `Hybrid Search` · `Keyword Search` · `Full-Text Search` · `Similarity Matching`
 
-<br/><br/>
+### Backend & APIs
 
-<b>Document Processing</b><br/>
-PDF · DOCX · PPTX Parsing · OCR Pipelines · Text Structuring<br/>
-<img src="https://img.shields.io/badge/pdfplumber-6B7280?style=flat"/>
-<img src="https://img.shields.io/badge/python--docx-2B579A?style=flat"/>
-<img src="https://img.shields.io/badge/python--pptx-D24726?style=flat"/>
-<img src="https://img.shields.io/badge/Tesseract-OCR-8A2BE2?style=flat"/>
+`Python` · `FastAPI` · `REST APIs` · `Async Processing` · `File Processing Pipelines`
 
-<br/><br/>
+### SQL, Databases & Data Modeling
 
-<b>Frontend & Full Stack</b><br/>
-Angular · React · TypeScript · API Integration · Interactive UI Systems<br/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+`SQL` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `JSONB` · `Relational Data Modeling` · `Database Migrations`
 
-<br/><br/>
+### Vector Databases
 
-<b>Deployment & Infrastructure</b><br/>
-Docker · Containerization · Environment Management<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+`pgvector` · `ChromaDB` · `Milvus`
 
-</p>
+### Document Processing
+
+`PDF` · `DOCX` · `PPTX` · `OCR` · `Text Extraction` · `Document Parsing` · `Document Structuring`
+
+### Frontend & Full Stack
+
+`Angular` · `React` · `TypeScript` · `API Integration` · `Interactive UI Systems`
+
+### Deployment & Infrastructure
+
+`Docker` · `Docker Compose` · `Redis` · `ARQ` · `Containerization` · `Environment Management`
 
 ---
 
-## Approach
+## My Approach
 
-<p align="center">
-I focus on building structured and scalable AI systems, combining data processing, model orchestration, and application-level integration.
-</p>
+I aim to build AI systems that are:
 
-<p align="center">
-From backend APIs to user-facing applications, I aim to deliver solutions that are both technically solid and usable in real environments.
-</p>
+- **Practical** — designed around real business problems and user needs
+- **Grounded** — based on reliable data and controlled AI generation
+- **End-to-end** — covering data, models, APIs, databases, and interfaces
+- **Modular** — structured for maintainability and future evolution
+- **Traceable** — supported by validation, permissions, and auditability
+- **Scalable** — designed with asynchronous processing and modular services
+- **User-focused** — using AI to simplify workflows rather than complicate them
 
 ---
 
 ## Contact
 
-<p align="center">
-Open to collaborations, freelance opportunities, and applied AI projects.
-</p>
+🌐 **Portfolio:** [balkis-portfolio-nine.vercel.app](https://balkis-portfolio-nine.vercel.app)  
+💼 **LinkedIn:** [Balkis Haj Harrouchi](https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/)  
+📧 **Email:** [balkis.hajharrouchi@esprit.tn](mailto:balkis.hajharrouchi@esprit.tn)
+
+---
+
+*Always learning, building, and exploring what comes next in AI.*
+```
