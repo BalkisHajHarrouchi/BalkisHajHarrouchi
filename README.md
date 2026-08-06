@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="31" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:balkis.hajharrouchi@esprit.tn">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=balkis.hajharrouchi@esprit.tn" target="_blank">
     <img src="https://img.icons8.com/fluency/48/new-post.png" width="31" alt="Email"/>
   </a>
 </p>
@@ -28,7 +28,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:balkis.hajharrouchi@esprit.tn">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=balkis.hajharrouchi@esprit.tn" target="_blank">Email</a>
 </p>
 
 </div>
@@ -239,13 +239,13 @@
 <h2>Let's Connect</h2>
 
 <p>
-  <a href="https://balkis-portfolio-nine.vercel.app">
+  <a href="https://balkis-portfolio-nine.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/">
+  <a href="https://www.linkedin.com/in/balkis-haj-harrouchi-ba1b41220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:balkis.hajharrouchi@esprit.tn">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=balkis.hajharrouchi@esprit.tn" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
