@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # Hi, I'm Balkis 👋
@@ -255,4 +254,3 @@ An AI-powered platform designed to support the analysis, qualification, and mana
 <i>Building practical AI systems from models to production-ready applications.</i>
 
 </div>
-```
